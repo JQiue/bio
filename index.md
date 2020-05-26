@@ -7,10 +7,10 @@
 
 ### 个人信息
 
-- 王某某/male/1998/**/**
+- 王某某/男/1998/1*/*8
 - 专科/**学院/软件技术/2017-2020
-- 技术博客：https://www.jqiue.top
-- Github：https://github.com/JQiue
+- 技术博客：()[https://www.jqiue.top]
+- Github：(){https://github.com/JQiue]
 
 ### 技能清单
 + 熟悉Java，JavaScript并能熟练解决相关问题
