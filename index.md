@@ -9,8 +9,8 @@
 
 - 王某某/男/1998/1*/*8
 - 专科/**学院/软件技术/2017-2020
-- 技术博客：[](www.jqiue.top)
-- Github：[](https://github.com/JQiue)
+- 技术博客：[www.jqiue.top](www.jqiue.top)
+- Github：[https://github.com/JQiue](https://github.com/JQiue)
 
 ### 技能清单
 + 熟悉Java，JavaScript并能熟练解决相关问题
