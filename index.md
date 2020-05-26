@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/JQiue/bio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 手机：188****7419
+- Email：*****@foxmail.com
 
-### Markdown
+### 个人信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 王某某/male/1998/**/**
+- 专科/**学院/软件技术/2017-2020
+- 技术博客：https://www.jqiue.top
+- Github：https://github.com/JQiue
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JQiue/bio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 技能清单
++ 熟悉Java，JavaScript并能熟练解决相关问题
++ 会使用html，css搭建web页面
++ 熟练使用Vue框架，并熟悉其中的运行原理
++ 会使用自动化构建工具webpack对项目进行管理
++ 熟悉代码管理git工具的使用，并能对提交进行良好的规范
