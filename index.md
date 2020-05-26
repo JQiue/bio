@@ -8,22 +8,20 @@
 ### 教育经历
 
 - 学历/某某大学/某某专业/入学时间-毕业时间
-- 技术博客：[www.jqiue.top](www.jqiue.top)
+- 技术博客：[www.jqiue.top](https://www.jqiue.top)
 - Github：[https://github.com/JQiue](https://github.com/JQiue)
 
 ### 项目经验
 
 项目一名称：职责
-- 时间
-- 技术栈
-- 具体细节
+- 项目开发时间
+- 用到的技术栈
+- 项目具体细节
 
 项目二名称：职责
-- 时间
-- 技术栈
-- 具体细节
-
-...
+- 项目开发时间
+- 用到的技术栈
+- 项目具体细节
 
 ### 技能描述
 
