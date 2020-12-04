@@ -3,7 +3,7 @@
 ### 联系方式
 
 - 手机：188****7419
-- Email：861******42@foxmail.com
+- Email：******@foxmail.com
 
 ### 教育经历
 
@@ -11,7 +11,7 @@
 - 技术博客：[xxx.com](https://www.jqiue.top)
 - Github：[https://github.com/xxx](https://github.com/JQiue)
 
-### 项目经验
+### 项目经历
 
 项目一名称：职责
 - 项目开发时间
@@ -25,15 +25,14 @@
 
 ### 技能描述
 
-+ 熟练使用 HTML，CSS 搭建 Web 页面
-+ 熟知 HTML5 和 CSS3 最新规范
++ 熟练使用 HTML，CSS 搭建 Web 页面，且熟知 HTML5 和 CSS3 最新规范
 + 熟练掌握 JavaScript 核心语法，以及 ES6 新特性
-+ 了解浏览器运行原理和 HTTP 协议
 + 熟练掌握 NodeJS 核心 API 和 NPM 包管理器的应用
++ 熟练使用 Vue 和 React 相关全家桶，并熟悉其中的运行原理
++ 熟练使用 Webpack 对项目的自动化配置
++ 熟悉 Git 工具的使用，能对提交进行良好的规范
++ 了解浏览器运行原理和 HTTP 协议
 + 了解前端模块化规范
-+ 熟练使用 Vue 相关全家桶，并熟悉其中的运行原理
-+ 会使用自动化构建工具 Webpack
-+ 熟悉代码管理 Git 工具的使用，并能对提交进行良好的规范
 + 了解 Mysql 数据库操作以及优化性能
 + 了解 Java 相关后端技术栈，比如 Srping
 
